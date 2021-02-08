@@ -1,10 +1,11 @@
-# Portfólio Jessica Prior
+# Portfólio Jessica Prior  
 
 Projeto front-end de site, com conteúdo sobre portfólio.
 
+
 Este é o link disponível para acessar o projeto sem precisar utilizar o VS Code e comandos:
 
-- https://portfolio-jessy.netlify.app   [![Netlify Status](https://api.netlify.com/api/v1/badges/5d6ec627-25bd-4e4a-b913-1b8466030559/deploy-status)](https://app.netlify.com/sites/portfolio-jessy/deploys)
+- https://portfolio-jessy.netlify.app  &nbsp; [![Netlify Status](https://api.netlify.com/api/v1/badges/5d6ec627-25bd-4e4a-b913-1b8466030559/deploy-status)](https://app.netlify.com/sites/portfolio-jessy/deploys)
 
 
 ### Bibliotecas utilizadas
