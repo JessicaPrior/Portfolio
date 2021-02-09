@@ -10,8 +10,8 @@ Este é o link disponível para acessar o projeto sem precisar utilizar o VS Cod
 
 ### Bibliotecas utilizadas
 
- * Componentes para estilização: styled-components
- * Biblioteca para UI: React (com template para desenvolver em TypeScript)
+ - Componentes para estilização: styled-components
+ - Biblioteca para UI: React (com template para desenvolver em TypeScript)
 
 ## Caso queira executar o codigo pelo VS Code, segue abaixo alguns comandos necessários
 
