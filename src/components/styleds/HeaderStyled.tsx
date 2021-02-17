@@ -49,8 +49,9 @@ export const HeaderBackground = styled.div`
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0 -10vh;
-    @media screen and (max-width: 1000px) and (min-width: 500px) {
+    @media screen and (max-width: 1000px) and (min-width: 300px) {
         height: 65vh;
+        background-position: 0 -6vh;
     }
 `
 
@@ -83,7 +84,7 @@ export const CardHeader = styled.div`
     p{
         margin-top: 8px;
     }
-    @media screen and (max-width: 2000px) and (min-width: 500px) {
+    @media screen and (max-width: 1000px) and (min-width: 300px) {
         width: 40vh;
     p{
         padding-left: 10px;
